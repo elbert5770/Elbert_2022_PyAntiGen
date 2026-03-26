@@ -1,0 +1,1 @@
+{'Reaction_name': 'Basic_A_to_B_Comp1', 'Reactants': '[A_Comp1]', 'Products': '[B_Comp1]', 'Rate_type': 'MA', 'Rate_eqtn_prototype': 'k_A_to_B'}
