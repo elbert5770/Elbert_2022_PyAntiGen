@@ -5,7 +5,7 @@ This repository contains the implementation of the Elbert 2022 model, utilizing 
 ## Prerequisites
 
 **Important:** This repository requires the **PyAntiGen** framework to function. 
-You must clone the PyAntiGen repository (https://github.com/Elbert-Lab/PyAntiGen) and ensure its modules are accessible in your Python environment (e.g., by adding its path to your `PYTHONPATH` or installing it, depending on PyAntiGen's setup instructions) before running any of the scripts here.
+You must clone the PyAntiGen repository (https://github.com/elbert5770/PyAntiGen) and ensure its modules are accessible in your Python environment (e.g., by adding its path to your `PYTHONPATH` or installing it, depending on PyAntiGen's setup instructions) before running any of the scripts here.
 
 ## Directory Structure
 
